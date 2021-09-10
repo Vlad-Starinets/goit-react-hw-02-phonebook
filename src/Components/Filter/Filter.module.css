@@ -1,0 +1,19 @@
+.conteiner {
+  margin-top: 5px;
+}
+
+.title {
+  margin: 0px;
+  margin-bottom: 5px;
+  color: #28f555;
+}
+
+.input {
+  width: 450px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  background-color: #2893f7;
+  border: 2px solid #8e8000;
+  color: #28f555;
+  font-size: 16px;
+}

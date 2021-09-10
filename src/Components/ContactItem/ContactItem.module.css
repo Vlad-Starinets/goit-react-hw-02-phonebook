@@ -1,0 +1,35 @@
+.item {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #2893f7;
+}
+
+p {
+  text-align: start;
+  width: 150px;
+  margin: 0px;
+}
+
+.text {
+  margin-left: 10px;
+}
+
+.button {
+  min-width: 200px;
+  font-family: inherit;
+  appearance: none;
+  border: 2px solid #8e8000;
+  border-radius: 20px;
+  background: #2893f7;
+  color: #28f555;
+  padding: 5px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  color: #ffffff;
+  background: #28f555;
+}
